@@ -1,0 +1,14 @@
+{
+    "name": "aleksei/brooklyn",
+    "description": "Modular system for site school and college",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksei Fedorov",
+            "email": "aleksei_fedorov@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
